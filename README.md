@@ -2,7 +2,7 @@
 
 A live **order book, market depth chart and trade tape** built with **React, TypeScript and WebSockets**, with an on-screen **performance panel** so you can see the effect of each optimisation. Live Binance data, no API key.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://paper-trader-394v.vercel.app/
 
 ## What it shows
 
